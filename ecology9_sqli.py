@@ -43,7 +43,7 @@ def check_vulnerability(target):
         # elapsed2 = time.time() - start_time
         
         # 检查漏洞条件
-        condition1 = r1.status_code == 200 and elapsed1 >= 5.5  # 考虑网络延迟
+        condition1 = r1.status_code == 200 and elapsed1 >= 6.0 and elapsed1 <= 7.0 # 考虑网络延迟
         
         if condition1:
             return target, True, f"响应时间: {elapsed1:.2f}s"
