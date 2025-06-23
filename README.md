@@ -1,7 +1,7 @@
 ## ⚠️ 免责声明
 本工具仅供 **学习与授权测试使用**。请勿用于非法用途，否则后果自负。开发者不对任何因使用本工具所导致的法律问题负责。
 
-![](https://cdn.nlark.com/yuque/0/2025/png/33722335/1750679198114-9f2d8e62-9f5b-4911-8d3c-c4878ca256e2.png)
+![image](https://github.com/user-attachments/assets/d6ee1611-b123-44f7-8551-8b81e4987574)
 
 ## 🔧 功能特性
 + 支持单个 URL 和批量 URL 文件输入
