@@ -20,6 +20,7 @@
 
 ```bash
 pip install requests
+pip install pyqt6
 ```
 
 ### 基本参数说明  
